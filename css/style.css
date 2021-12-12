@@ -142,16 +142,6 @@ html{
   margin-left: 5em;
 }
 
-/*.row .attorney2 .card{
-  margin: auto;
-  text-align: center;
-}
-
-.row .attorney3 .card{
-  margin-right: 20em;
-  text-align: center;
-}*/
-
 .parallax3{
   background-image: url("../img/office_building.jpg");
   min-height: 600px; 
