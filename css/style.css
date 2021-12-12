@@ -5,7 +5,6 @@ html{
 .row .logo{
   margin: auto;
   text-align: center;
-  /*padding: 2em;*/
 }
 
 .row .menu{
@@ -43,7 +42,6 @@ html{
 
 .parallax .row .sideText .box{
   text-align: right;
-  /*width: 500px;*/
   height: 700px;
   margin: auto;
   padding: 14em 5em 10em 0em;
